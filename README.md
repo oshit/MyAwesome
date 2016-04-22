@@ -16,3 +16,7 @@ http://scrapinghub.com/portia/
 
 #Github Reivew
 https://githubreviews.com/explore/web-development
+
+
+#Web Design
+http://subtlepatterns.com/
