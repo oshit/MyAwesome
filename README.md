@@ -20,3 +20,8 @@ https://githubreviews.com/explore/web-development
 
 #Web Design
 http://subtlepatterns.com/
+
+
+#Snippents
+https://codyhouse.co/
+http://codemyui.com/
