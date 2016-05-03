@@ -26,3 +26,7 @@ https://medium.mybridge.co/top-10-ui-design-resources-that-make-designers-life-e
 #Snippents
 https://codyhouse.co/
 http://codemyui.com/
+
+#Cheat Sheets
+http://overapi.com/
+http://hackerthemes.com/bootstrap-cheatsheet
