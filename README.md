@@ -20,7 +20,7 @@ https://githubreviews.com/explore/web-development
 
 #Web Design
 http://subtlepatterns.com/
-
+https://medium.mybridge.co/top-10-ui-design-resources-that-make-designers-life-easier-d5cd0d789959#.ylvo174s8
 
 #Snippents
 https://codyhouse.co/
