@@ -8,6 +8,8 @@ http://saijogeorge.com/website-builders/
 
 #Bootstrap
 http://hackerthemes.com/bootstrap-cheatsheet
+http://bootsnipp.com/
+
 
 #Scrap
 http://crawly.diffbot.com/
