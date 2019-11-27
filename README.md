@@ -35,3 +35,4 @@ http://hackerthemes.com/bootstrap-cheatsheet
 
 list of list
 https://github.com/ripienaar/free-for-dev
+[JavaScript](https://github.com/sorrycc/awesome-javascript)
