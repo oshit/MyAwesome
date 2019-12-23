@@ -1,5 +1,9 @@
 # MyAwesome
 
+#News
+[TechNews](https://github.com/sdmg15/Best-websites-a-programmer-should-visit#news)
+
+
 A collection of awesome browser-side JavaScript libraries, resources and shiny things
 http://js.libhunt.com/
 
