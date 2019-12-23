@@ -1,8 +1,7 @@
 # MyAwesome
 
 ## News
-- [ACM TechNews](http://technews.acm.org) : TechNews
-- [List of TechDev News](https://github.com/sdmg15/Best-websites-a-programmer-should-visit#news)
+- [List of TechDev News](https://github.com/sdmg15/Best-websites-a-programmer-should-visit#news) : TechNews
 
 
 
