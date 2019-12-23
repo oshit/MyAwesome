@@ -1,11 +1,10 @@
 # MyAwesome
 
-#News
-
-
 ## News
 - [ACM TechNews](http://technews.acm.org) : TechNews
 - [List of TechDev News](https://github.com/sdmg15/Best-websites-a-programmer-should-visit#news)
+
+
 
 A collection of awesome browser-side JavaScript libraries, resources and shiny things
 http://js.libhunt.com/
