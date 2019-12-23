@@ -1,7 +1,7 @@
 # MyAwesome
 
 #News
-[TechNews](https://github.com/sdmg15/Best-websites-a-programmer-should-visit#news)
+[List of TechDev News](https://github.com/sdmg15/Best-websites-a-programmer-should-visit#news)
 
 
 A collection of awesome browser-side JavaScript libraries, resources and shiny things
